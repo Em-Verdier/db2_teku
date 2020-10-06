@@ -1,4 +1,4 @@
-# db2_teku
+# db2_teku :floppy_disk:
 
 **##1**
 
