@@ -1,6 +1,6 @@
 # db2_teku :floppy_disk:
 
-**##1**
+**##Excercice 1**
 
 Télécharger la base de donnée: https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 Dézipper le fichier dvdrental.zip et installer la base de donnée dvdrental.tar avec les commandes suivantes:
